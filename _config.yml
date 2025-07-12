@@ -56,7 +56,10 @@ plugins:
 author:
   name   : "Giovanni Manica"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Incoming PhD student at the University of Mannheim | Junior Researcher at Fondazione Eni Enrico Mattei | Labor & Environmental Economics"
+  bio: |
+  **Incoming PhD student** in Economics at the University of Mannheim  
+  **Junior Researcher** at Fondazione Eni Enrico Mattei  
+  _Labor, Environmental Economics & Technological Change_
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
