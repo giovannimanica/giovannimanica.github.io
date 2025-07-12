@@ -1,6 +1,5 @@
-/* Increase avatar size */
 .author__avatar img {
-  width: 160px;   /* default is 100px */
-  height: 160px;
-  border-radius: 50%;
+  width: 160px !important;
+  height: 160px !important;
+  border-radius: 50% !important;
 }
