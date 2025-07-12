@@ -9,4 +9,5 @@ author_profile: true
 
 My research focuses on **Labor Economics**, **Environmental Economics**, and **Technological Change**.
 
-🔗 [CV](/cv/) · [Research](/research/) · [Contact](/contact/)
+📄 [Download my CV (PDF)](/assets/documents/CV_Manica.pdf)
+
