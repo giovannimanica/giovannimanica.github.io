@@ -62,14 +62,14 @@ author:
     **MSc in Economic and Social Sciences** at Bocconi University
   links:
     - label: "Personal Page at CDSE"
-      icon: "fab fa-fw fa-github"
+      icon: "fas fa-fw fa-link"
       url: ""
     - label: "Personal Page at FEEM"
       icon: "fas fa-fw fa-link"
       url: "https://www.feem.it/en/chi-siamo/persone/giovanni-manica/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/giovanemanica"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/giovanni-manica-5347631a9/"
 
 footer:
   links:
