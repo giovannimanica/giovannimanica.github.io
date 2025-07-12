@@ -97,3 +97,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+sass:
+  style: compressed
+
+minimal_mistakes:
+  custom_css:
+    - /assets/css/custom.css
