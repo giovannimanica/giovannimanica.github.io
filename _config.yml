@@ -63,7 +63,7 @@ author:
   links:
     - label: "Personal Page at CDSE"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://www.uni-mannheim.de/gess/programs/cdse/our-students/2025/giovanni-manica/"
     - label: "Personal Page at FEEM"
       icon: "fas fa-fw fa-link"
       url: "https://www.feem.it/en/chi-siamo/persone/giovanni-manica/"
@@ -72,13 +72,6 @@ author:
       url: "https://www.linkedin.com/in/giovanni-manica-5347631a9/"
 
 footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   - scope:
