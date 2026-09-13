@@ -3,5 +3,7 @@ main:
     url: /cv/
   - title: "Research"
     url: /research/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Contact"
     url: /contact/
